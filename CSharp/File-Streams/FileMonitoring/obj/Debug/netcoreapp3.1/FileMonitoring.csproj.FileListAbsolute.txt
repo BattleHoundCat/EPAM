@@ -1,0 +1,9 @@
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\bin\Debug\netcoreapp3.1\FileMonitoring.deps.json
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\bin\Debug\netcoreapp3.1\FileMonitoring.dll
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\bin\Debug\netcoreapp3.1\FileMonitoring.pdb
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\obj\Debug\netcoreapp3.1\FileMonitoring.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\obj\Debug\netcoreapp3.1\FileMonitoring.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\obj\Debug\netcoreapp3.1\FileMonitoring.AssemblyInfo.cs
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\obj\Debug\netcoreapp3.1\FileMonitoring.csproj.CoreCompileInputs.cache
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\obj\Debug\netcoreapp3.1\FileMonitoring.dll
+E:\Documents\HomeTasks\Files.Streams\FileMonitoring\obj\Debug\netcoreapp3.1\FileMonitoring.pdb
