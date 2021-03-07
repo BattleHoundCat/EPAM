@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Calculation</AssemblyName>
+    <RootNamespace>Calculation</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.7.6" />
+    <PackageReference Include="NLog.Config" Version="4.7.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="C:\Users\User\.nuget\packages\nlog.config\4.7.6\contentFiles\any\any\NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

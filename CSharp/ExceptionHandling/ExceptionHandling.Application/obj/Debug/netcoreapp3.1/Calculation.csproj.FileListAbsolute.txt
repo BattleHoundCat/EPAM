@@ -1,0 +1,10 @@
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\bin\Debug\netcoreapp3.1\Calculation.deps.json
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\bin\Debug\netcoreapp3.1\Calculation.dll
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\obj\Debug\netcoreapp3.1\Calculation.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfo.cs
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\bin\Debug\netcoreapp3.1\Calculation.pdb
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\obj\Debug\netcoreapp3.1\Calculation.dll
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\obj\Debug\netcoreapp3.1\Calculation.pdb
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\bin\Debug\netcoreapp3.1\NLog.config
+E:\Documents\HomeTasks\exceptionhandling.logging\ExceptionHandling.Application\obj\Debug\netcoreapp3.1\Calculation.csproj.CoreCompileInputs.cache
