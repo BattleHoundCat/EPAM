@@ -1,0 +1,9 @@
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\bin\Debug\netcoreapp3.1\CSharpBasics.Utilities.deps.json
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\bin\Debug\netcoreapp3.1\CSharpBasics.Utilities.dll
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\bin\Debug\netcoreapp3.1\CSharpBasics.Utilities.pdb
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\obj\Debug\netcoreapp3.1\CSharpBasics.Utilities.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\obj\Debug\netcoreapp3.1\CSharpBasics.Utilities.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\obj\Debug\netcoreapp3.1\CSharpBasics.Utilities.AssemblyInfo.cs
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\obj\Debug\netcoreapp3.1\CSharpBasics.Utilities.csproj.CoreCompileInputs.cache
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\obj\Debug\netcoreapp3.1\CSharpBasics.Utilities.dll
+E:\Documents\HomeTasks\CSharpBasics\csharpbasics\CSharpBasics.Utilities\obj\Debug\netcoreapp3.1\CSharpBasics.Utilities.pdb
