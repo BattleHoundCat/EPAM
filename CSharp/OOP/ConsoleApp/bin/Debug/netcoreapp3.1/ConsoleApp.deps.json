@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Oop.Shapes": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "Oop.Shapes/1.0.0": {
+        "runtime": {
+          "Oop.Shapes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oop.Shapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
