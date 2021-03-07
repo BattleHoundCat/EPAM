@@ -1,0 +1,9 @@
+E:\Documents\HomeTasks\oop\Oop.Shapes\bin\Debug\netcoreapp3.1\Oop.Shapes.deps.json
+E:\Documents\HomeTasks\oop\Oop.Shapes\bin\Debug\netcoreapp3.1\Oop.Shapes.dll
+E:\Documents\HomeTasks\oop\Oop.Shapes\bin\Debug\netcoreapp3.1\Oop.Shapes.pdb
+E:\Documents\HomeTasks\oop\Oop.Shapes\obj\Debug\netcoreapp3.1\Oop.Shapes.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\oop\Oop.Shapes\obj\Debug\netcoreapp3.1\Oop.Shapes.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\oop\Oop.Shapes\obj\Debug\netcoreapp3.1\Oop.Shapes.AssemblyInfo.cs
+E:\Documents\HomeTasks\oop\Oop.Shapes\obj\Debug\netcoreapp3.1\Oop.Shapes.csproj.CoreCompileInputs.cache
+E:\Documents\HomeTasks\oop\Oop.Shapes\obj\Debug\netcoreapp3.1\Oop.Shapes.dll
+E:\Documents\HomeTasks\oop\Oop.Shapes\obj\Debug\netcoreapp3.1\Oop.Shapes.pdb
