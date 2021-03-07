@@ -1,0 +1,5 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\User\AppData\Local\Temp\JetBrains\ReSharperPlatformVs16\vAny_cfd089e5\CoverageData\_HrDepartment.68271263\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=21769ef8_002D2f5a_002D45f8_002D88ef_002Dfb0131f7c157/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="JobSeekerRateServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="E:\Documents\HomeTasks\unittests\HrDepartment\UnitTestProject" Presentation="&amp;lt;UnitTestProject&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
