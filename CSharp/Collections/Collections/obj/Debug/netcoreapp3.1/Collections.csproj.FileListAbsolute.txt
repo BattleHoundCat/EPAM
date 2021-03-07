@@ -1,0 +1,9 @@
+E:\Documents\HomeTasks\collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+E:\Documents\HomeTasks\collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+E:\Documents\HomeTasks\collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+E:\Documents\HomeTasks\collections\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+E:\Documents\HomeTasks\collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+E:\Documents\HomeTasks\collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+E:\Documents\HomeTasks\collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
