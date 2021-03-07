@@ -1,0 +1,12 @@
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\bin\Debug\netcoreapp3.1\HrDepartment.Utils.deps.json
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\bin\Debug\netcoreapp3.1\HrDepartment.Utils.dll
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\obj\Debug\netcoreapp3.1\HrDepartment.Utils.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\obj\Debug\netcoreapp3.1\HrDepartment.Utils.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\obj\Debug\netcoreapp3.1\HrDepartment.Utils.AssemblyInfo.cs
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\bin\Debug\netcoreapp3.1\HrDepartment.Utils.pdb
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\obj\Debug\netcoreapp3.1\HrDepartment.Utils.csproj.CoreCompileInputs.cache
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\obj\Debug\netcoreapp3.1\HrDepartment.Utils.dll
+E:\Documents\HomeTasks\unittests\HrDepartment\HrDepartment.Utils\obj\Debug\netcoreapp3.1\HrDepartment.Utils.pdb
