@@ -1,0 +1,9 @@
+E:\Documents\HomeTasks\linq\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+E:\Documents\HomeTasks\linq\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+E:\Documents\HomeTasks\linq\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+E:\Documents\HomeTasks\linq\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\linq\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\linq\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+E:\Documents\HomeTasks\linq\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+E:\Documents\HomeTasks\linq\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+E:\Documents\HomeTasks\linq\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
