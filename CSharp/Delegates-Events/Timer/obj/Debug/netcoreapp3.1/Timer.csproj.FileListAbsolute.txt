@@ -1,0 +1,9 @@
+E:\Documents\HomeTasks\delegates_events\Timer\bin\Debug\netcoreapp3.1\Timer.deps.json
+E:\Documents\HomeTasks\delegates_events\Timer\bin\Debug\netcoreapp3.1\Timer.dll
+E:\Documents\HomeTasks\delegates_events\Timer\bin\Debug\netcoreapp3.1\Timer.pdb
+E:\Documents\HomeTasks\delegates_events\Timer\obj\Debug\netcoreapp3.1\Timer.csprojAssemblyReference.cache
+E:\Documents\HomeTasks\delegates_events\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfoInputs.cache
+E:\Documents\HomeTasks\delegates_events\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfo.cs
+E:\Documents\HomeTasks\delegates_events\Timer\obj\Debug\netcoreapp3.1\Timer.csproj.CoreCompileInputs.cache
+E:\Documents\HomeTasks\delegates_events\Timer\obj\Debug\netcoreapp3.1\Timer.dll
+E:\Documents\HomeTasks\delegates_events\Timer\obj\Debug\netcoreapp3.1\Timer.pdb
